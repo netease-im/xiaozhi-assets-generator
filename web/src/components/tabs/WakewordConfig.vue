@@ -144,6 +144,8 @@
             >
               <option value="mn6_cn">{{ $t('wakewordConfig.mn6cn') }}</option>
               <option value="mn6_en">{{ $t('wakewordConfig.mn6en') }}</option>
+              <option value="mn7_cn">{{ $t('wakewordConfig.mn7cn') }}</option>
+              <option value="mn7_en">{{ $t('wakewordConfig.mn7en') }}</option>
             </select>
           </div>
         </div>
